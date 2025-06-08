@@ -5,6 +5,7 @@ Welcome to the official website of the **National Service Scheme (NSS)** at VIT.
 ## 🔗 Live Demo
 
 👉 [https://nssvit.netlify.app](https://nssvit.netlify.app)
+👉 [Demo Video](https://res.cloudinary.com/dq4rbg2eb/video/upload/v1746899014/Portfolio/Project%20Demo%20Videos/nss-vit.mp4)
 
 ## ✨ Features
 

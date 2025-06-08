@@ -1,8 +1,24 @@
-# React + Vite
+# 🌐 NSS Website — [nssvit.netlify.app](https://nssvit.netlify.app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official website of the **National Service Scheme (NSS)** at VIT. This platform is dedicated to fostering a sense of **social and civic responsibility** among students while serving as a central hub for all NSS-related announcements, events, and updates.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [https://nssvit.netlify.app](https://nssvit.netlify.app)
+
+## ✨ Features
+
+- 📰 **Latest Announcements** – Stay informed about ongoing and upcoming activities.
+- 📸 **Gallery Integration** – Media content stored and managed with **Cloudinary**.
+- 📅 **Event Calendar** – Know what's coming up and how to participate.
+- 📬 **Contact & Feedback** – Reach out or contribute ideas easily.
+- 📱 **Fully Responsive** – Optimized for all screen sizes from mobile to desktop.
+- 🚀 **Deployed on Netlify** – Fast, secure, and reliable hosting.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [React.js](https://reactjs.org/) + [React Router](https://reactrouter.com/) + [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Image Hosting**: [Cloudinary](https://cloudinary.com/)
+- **Deployment**: [Netlify](https://www.netlify.com/)
+
